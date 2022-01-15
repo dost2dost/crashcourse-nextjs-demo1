@@ -1,3 +1,4 @@
 {
+  "label":"next/label",
   "extends": "next/core-web-vitals"
 }
